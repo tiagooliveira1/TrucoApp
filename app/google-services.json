@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "963510252261",
+    "firebase_url": "https://trucoapp-6f106.firebaseio.com",
+    "project_id": "trucoapp-6f106",
+    "storage_bucket": "trucoapp-6f106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963510252261:android:5269153dcfe377eb",
+        "android_client_info": {
+          "package_name": "com.example.troli.trucoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963510252261-n7ebubcsvihk05pvesrmq622d6vag0lr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.troli.trucoapp",
+            "certificate_hash": "46634d85bacb91004f866ad89ee5ce101db89df0"
+          }
+        },
+        {
+          "client_id": "963510252261-a8a2vaic8nvb3jte999i8f2go4077k70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrvnePg6RWZ10gMqB4SJE4ghJsi-dZrnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963510252261-a8a2vaic8nvb3jte999i8f2go4077k70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
