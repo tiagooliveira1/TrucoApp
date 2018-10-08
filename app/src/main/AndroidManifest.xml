@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".LoginActivity"
+            android:name=".trucoapp.Activity.LoginActivity"
             android:label="@string/app_name">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,9 +24,14 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name=".trucoapp.Activity.MainActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".trucoapp.Activity.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+        <activity android:name=".trucoapp.Activity.SettingsUserActivity" />
+        <activity android:name=".trucoapp.Activity.RegistrarJogoActivity"></activity>
     </application>
 
 </manifest>
